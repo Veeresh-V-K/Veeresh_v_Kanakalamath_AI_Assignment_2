@@ -98,12 +98,9 @@ To evaluate the performance of the voice cloning model, you can consider the fol
 
 - Listening Test: Conduct a subjective evaluation by having listeners rate the quality and similarity of the generated speech to the original voice.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-You can create a new file named `README.md` and copy the above content into it. Make sure to replace `[source_link]` with the actual link to download the VoxCeleb-1 dataset if applicable. Additionally, you may modify the content to suit your specific model and requirements.
-
-Remember to include any other necessary information, such as model hyperparameters, further instructions, or any additional files required to run the model in the README.
+##Sample Input
+This is a test of the voice cloning model.
+##output
+-generated_speech.mp3
+-generated_speech_output.mp3
+-generated_speech.wav
