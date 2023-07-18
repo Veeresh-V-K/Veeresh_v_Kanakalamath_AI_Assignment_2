@@ -98,9 +98,15 @@ To evaluate the performance of the voice cloning model, you can consider the fol
 
 - Listening Test: Conduct a subjective evaluation by having listeners rate the quality and similarity of the generated speech to the original voice.
 
-##Sample Input
+## Sample Input
 This is a test of the voice cloning model.
-##output
--generated_speech.mp3
--generated_speech_output.mp3
--generated_speech.wav
+
+## output
+
+- generated_speech.mp3
+- generated_speech_output.mp3
+- generated_speech.wav
+  
+
+
+
